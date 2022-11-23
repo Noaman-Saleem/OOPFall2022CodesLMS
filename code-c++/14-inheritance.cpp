@@ -78,16 +78,16 @@ int main(){
 
 	Programmer noaman;
 //	noaman.display();
-//	noaman.setName("Noaman");
-//	noaman.setSalary(33000);
-//	noaman.setExpertise("ReactJS");
-//	noaman.showExpertise();
-//	noaman.display();
-//	cout<<noaman.salary;
+	noaman.setName("Noaman");
+	noaman.setSalary(33000);
+	noaman.setExpertise("ReactJS");
+	noaman.showExpertise();
+	noaman.display();
+	cout<<noaman.salary;
 
-	Tester t1;
-	t1.setSalary(15000);
-	t1.display();
+//	Tester t1;
+//	t1.setSalary(15000);
+//	t1.display();
 	
 	
 	
