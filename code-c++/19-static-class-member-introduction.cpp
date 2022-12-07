@@ -17,10 +17,10 @@ int main(){
     // cout<<MyClass::x<<endl;
     // MyClass::greet();
     
-    // MyClass m1;
-    // m1.x = 7;
-    // cout<<m1.x<<endl;
-    // m1.greet();
+     MyClass m1;
+     m1.x = 7;
+     cout<<m1.x<<endl;
+     m1.greet();
     
     return 0;
 }
